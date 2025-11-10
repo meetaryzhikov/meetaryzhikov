@@ -1,15 +1,15 @@
-# 👋 Hi, I’m Aleksandr
+# Hi, I’m Aleksandr
 
-**Senior Frontend Engineer & Team Lead (in progress)**  
+**Frontend Architect & Team Lead (in progress)**  
 Passionate about building **scalable frontends**, **clean architecture**, and helping teams grow.
 
 ---
 
-## 🚀 About Me
-- 🌍 10+ years in web development, now aiming at the global market.  
-- 💡 Focused on **frontend architecture**, **TypeScript**, **React**, and **functional programming** (exploring Clojure).  
-- 🧑‍🤝‍🧑 Interested in **team leadership**, **system design**, and **developer productivity**.  
-- ✍️ Writing about code, architecture, and leadership on [Dev.to](https://dev.to/aleksandr_ryzhikov).  
+## About Me
+- 10+ years in web development, now aiming at the global market.  
+- Focused on **frontend architecture**, **TypeScript**, **React**, and **functional programming** (exploring Clojure).  
+- Interested in **team leadership**, **system design**, and **developer productivity**.  
+- Writing about code, architecture, and leadership on [Dev.to](https://dev.to/aleksandr_ryzhikov).  
 
 ---
 
@@ -21,24 +21,24 @@ Passionate about building **scalable frontends**, **clean architecture**, and he
 
 ---
 
-## 📌 Currently
-- ⚙️ Hacking on a **Frontend Architecture Starter Kit** for scalable projects.  
-- 📖 Sharing lessons learned in engineering leadership.  
-- 🌐 Building connections with the global dev community.  
+## Currently
+- Hacking on a **Frontend Architecture Starter Kit** for scalable projects.  
+- Sharing lessons learned in engineering leadership.  
+- Building connections with the global dev community.  
 
 ---
 
-## 🤝 Available for
-- 💬 Discussions on frontend, architecture, leadership, and open source.  
-- 🤝 Collaborations on developer tools and scalable projects.  
-- 🎤 Speaking, mentoring, and knowledge sharing.  
+## Available for
+- Discussions on frontend, architecture, leadership, and open source.  
+- Collaborations on developer tools and scalable projects.  
+- Speaking, mentoring, and knowledge sharing.  
 
 ---
 
-## 📫 How to reach me
-- 🐦 [Twitter](https://twitter.com/MeetARyzhikov)  
-- 📝 [Dev.to](https://dev.to/aleksandr_ryzhikov)  
-- 💻 [GitHub](https://github.com/meetaryzhikov)  
+## How to reach me
+- [Twitter](https://twitter.com/MeetARyzhikov)  
+- [Dev.to](https://dev.to/meetaryzhikov)  
+- [GitHub](https://github.com/meetaryzhikov)  
 
 ---
 
