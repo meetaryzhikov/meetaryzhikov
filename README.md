@@ -9,7 +9,7 @@ Passionate about building **scalable frontends**, **clean architecture**, and he
 - 10+ years in web development, now aiming at the global market.  
 - Focused on **frontend architecture**, **TypeScript**, **React**, and **functional programming** (exploring Clojure).  
 - Interested in **team leadership**, **system design**, and **developer productivity**.  
-- Writing about code, architecture, and leadership on [Dev.to](https://dev.to/aleksandr_ryzhikov).  
+- Writing about code, architecture, and leadership on [Dev.to](https://dev.to/meetaryzhikov).  
 
 ---
 
